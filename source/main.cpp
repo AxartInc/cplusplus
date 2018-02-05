@@ -10,5 +10,8 @@ int main()
     exo1();
 	printf("%ld", a);
 
+	exo2();
+
+
     return 0;
 }

@@ -18,6 +18,21 @@ void exo1(void) {
 	
 }
 
+void exo2(void) {
+	long n = 3, fac = 1, i = 1;
+
+	if (n > 0) {
+		while (i <= n) {
+			fac = fac * i;
+			i = i + 1;
+		}
+	} else {
+		if (n < 0) {
+			fac = 0;
+		}
+	}	
+}
+
 
 #endif
 
