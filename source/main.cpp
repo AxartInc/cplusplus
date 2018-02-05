@@ -14,5 +14,7 @@ int main()
 
 	exo3();
 
+	exo4();
+
     return 0;
 }
